@@ -1,2 +1,3 @@
 # QiZzO
-Simulating hack
+Created By Pranay
+All Right Reserved
